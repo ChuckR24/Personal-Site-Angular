@@ -1,0 +1,7 @@
+:host {
+    background-color: aquamarine;
+} 
+
+p {
+    background-color: inherit;
+}
